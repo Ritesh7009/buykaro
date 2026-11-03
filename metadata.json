@@ -1,0 +1,6 @@
+{
+  "name": "CampusCart — Smart Student Marketplace",
+  "description": "Discover, compare, and evaluate second-hand student products with transparent price intelligence and explainable recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
